@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Lucrezia!.</h2>
+<h2> Hey there! I'm Lucrezia!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Java Back-End at Develhope.
-- 💼 &nbsp; Currerntly looking for a job.
+- 💼 &nbsp; Currently looking for a job.
 - 🌱 &nbsp; Learning more about Networking and Cyber Security.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
