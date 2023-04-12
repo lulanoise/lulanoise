@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Lucrezia!.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -32,7 +32,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lucrezia-rumore-1b2774223/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:lucrezia.rumore98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/lucrezia-rumore-1b2774223/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucrezia%20Rumore-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:lucrezia.rumore98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucrezia.rumore98%40gmail.com-blue?style=flat-square&logo=gmail"></a></a>
 </p>
 
