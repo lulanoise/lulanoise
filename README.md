@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Lucrezia!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -28,6 +26,8 @@
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=orange)
 
 <br/>
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lulanoise&show_icons=true&hide_border=true" />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
